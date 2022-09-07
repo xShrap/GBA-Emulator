@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GBA Emu | shrapnel7</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Welcome to GBA Emulator by shrapnel7.</h1>
+        <h2>Please select a game:</h2>
+        <ul>
+            <li><a href="./launcher.html#aladdin">Aladdin</a></li>
+            <li><a href="./launcher.html#dbz_supersonic">Dragon Ball Z - Supersonic Warriors</a></li>
+            <li><a href="./launcher.html#ff1and2">Final Fantasy 1 &amp; 2 Advance</a></li>
+            <li><a href="./launcher.html#fire_emblem">Fire Emblem</a></li>
+            <li><a href="./launcher.html#frogger1">Frogger Advance - The Great Quest</a></li>
+            <li><a href="./launcher.html#fzero_max">F-Zero - Maximum Velocity</a></li>
+            <li><a href="./launcher.html#gamewatch4">Game &amp; Watch Gallery 4</a></li>
+            <li><a href="./launcher.html#kirbymirror">Kirby &amp; The Amazing Mirror</a></li>
+            <li><a href="./launcher.html#kirbynightmare">Kirby: Nightmare in Dreamland</a></li>
+            <li><a href="./launcher.html#mariokart">Mario Kart: Super Circuit</a></li>
+            <li><a href="./launcher.html#marioparty">Mario Party Advance</a></li>
+            <li><a href="./launcher.html#megaman_zero1">Megaman Zero</a></li>
+            <li><a href="./launcher.html#monopoly">Monopoly</a></li>
+            <li><a href="./launcher.html#mortal_kombat">Mortal Kombat Advance</a></li>
+            <li><a href="./launcher.html#pacman_world">Pacman World</a></li>
+            <li><a href="./launcher.html#pokemonemerald">Pokemon Emerald</a></li>
+            <li><a href="./launcher.html#pokemonred">Pokemon Fire Red</a></li>
+            <li><a href="./launcher.html#mysteryred">Pokemon Mystery Dungeon Red</a></li>
+            <li><a href="./launcher.html#sonic_advance">Sonic Advance</a></li>
+            <li><a href="./launcher.html#spyro_adventure">Spyro Adventure</a></li>
+            <li><a href="./launcher.html#spyro_ice">Spyro: Season of Ice</a></li>
+            <li><a href="./launcher.html#spyro_flame">Spyro 2: Season of Flame</a></li>
+            <li><a href="./launcher.html#super_street_fighter_3_alpha">Super Street Fighter III: Alpha</a></li>
+            <li><a href="./launcher.html#tales_of_phantasia">Tales of Phantasia</a></li>
+            <li><a href="./launcher.html#tetris_worlds">Tetris Worlds</a></li>
+        </ul>
+    </body>
+</html>
